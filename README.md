@@ -2,203 +2,190 @@
 
 # 🪔 ZUBEEN FM
 
-### হৃদয়ত জীয়াই থকা এক সুৰ
+### 🎵 সুৰত জীয়াই থকা এটা নাম — জুবিন
 
 <p>
   <img src="docs/assets/zubeen-portrait.jpg"
-       alt="Zubeen Garg"
-       width="280"
-       style="border-radius: 20px;">
+       alt="জুবিন গাৰ্গ"
+       width="300">
 </p>
 
 <p>
   <img src="docs/assets/diya.gif"
-       alt="Animated Diya"
-       width="90">
+       alt="শ্ৰদ্ধাঞ্জলীৰ বন্তি"
+       width="100">
 </p>
 
-## শ্ৰদ্ধাঞ্জলী
+# শ্ৰদ্ধাঞ্জলী
 
-### ❤️ Heartthrob ZUBEEN DA
+## ❤️ Heartthrob ZUBEEN DA
 
-**18-11-1972 — 19-09-2025**
+### ১৮-১১-১৯৭২ — ১৯-০৯-২০২৫
 
 > **“তোমাৰ সুৰে আমাক সদায় জীয়াই থকাৰ সাহস দিব, জুবিন দা।”**
+
+### 🪔
+
+> **“তুমি নাথাকিলেও তোমাৰ সুৰে সদায় কথা পাতি থাকিব।”**
 
 </div>
 
 ---
 
-## 🎵 About ZUBEEN FM
+# 🎵 ZUBEEN FM
 
-**ZUBEEN FM** is a personal, non-commercial Android music and tribute
-project created as a heartfelt dedication to the music, memories and
-cultural contribution of **Zubeen Garg**.
+**ZUBEEN FM** হৈছে জুবিন গাৰ্গৰ সংগীত, স্মৃতি আৰু অসমীয়া সংস্কৃতিলৈ
+তেওঁৰ অৱদানৰ প্ৰতি উৎসৰ্গিত এটা ব্যক্তিগত, অ-বাণিজ্যিক Android প্ৰকল্প।
 
-The project is designed to provide a modern music experience while
-keeping Zubeen Garg's musical legacy at its heart.
+> **“এটা কণ্ঠ, এটা সুৰ, এটা যুগ — জুবিন।”**
+
+এই প্ৰকল্পটোৰ মূল উদ্দেশ্য হৈছে এটা আধুনিক সংগীত অভিজ্ঞতাৰ মাজেৰে
+জুবিন দাৰ সংগীত আৰু স্মৃতিক সন্মান জনোৱা।
 
 ---
 
-## ✨ Features
+## 🪔 আমাৰ শ্ৰদ্ধাঞ্জলী
 
-### 📻 ZUBEEN FM Radio
+> **“জুবিন দা, তোমাৰ গান কেৱল গান নহয় —
+> সেয়া আমাৰ অনুভৱ, আমাৰ স্মৃতি আৰু আমাৰ জীৱনৰ এটা অংশ।”**
 
-- Dedicated Zubeen Garg radio experience
-- Universal synchronized radio station
-- Deterministic station schedule
-- Continuous playback
-- Modern radio player
-- Audio visualization
-- Play / Pause controls
-- Background playback
-- Lock-screen media controls
-- Android media notification
-- No advertisements
-- No RJ interruptions
+> **“তোমাৰ সুৰত আমি হাঁহিছোঁ, কান্দিছোঁ,
+> ভাল পাইছোঁ আৰু জীৱনক নতুনকৈ অনুভৱ কৰিছোঁ।”**
 
-### 🎶 Assamese Music Library
+> **“অসমৰ আকাশত তোমাৰ সুৰৰ প্ৰতিধ্বনি
+> সদায় বাজি থাকিব।”**
 
-Normal Songs mode focuses on Assamese-language recordings.
+---
 
-Includes discovery for:
+# ✨ Features
 
-- Songs
-- Albums
-- Artists
-- Genres
-- Languages
-- Search
-- Favorites
-- Recently played
+## 📻 ZUBEEN FM Radio
 
-The catalogue is designed to cover Assamese music from older generations
-through contemporary artists.
+A dedicated Zubeen Garg radio experience featuring:
 
-### ⭐ Zubeen Garg Collection
+- 🪔 Universal synchronized radio station
+- 🎵 Zubeen Garg music catalogue
+- 🔄 Independent radio station schedule
+- 🎧 Continuous playback
+- 📊 Modern audio visualization
+- ▶️ Play / Pause
+- 🔒 Background playback
+- 📱 Android media notification
+- 🔐 Lock-screen controls
+- 🚫 No advertisements
+- 🚫 No RJ interruptions
+- 🚫 No playback countdown timer
+
+> **“ৰেডিঅ' বন্ধ হ'ব পাৰে, কিন্তু সুৰ কেতিয়াও বন্ধ নহয়।”**
+
+---
+
+# 🎶 Assamese Music Library
+
+Normal Songs Mode focuses on **Assamese-language music**.
+
+The catalogue is designed to discover Assamese music from different
+generations, including:
+
+- 🎵 Songs
+- 💿 Albums
+- 👤 Artists
+- 🎼 Genres
+- 🔎 Search
+- ❤️ Favorites
+- 🕘 Recently Played
+
+The general catalogue follows a strict Assamese-language filtering
+architecture.
+
+---
+
+# ⭐ Zubeen Garg Collection
 
 Zubeen Garg has a dedicated artist catalogue.
 
-Unlike the general Assamese catalogue, the Zubeen Garg artist section can
-contain verified recordings in their **original languages**.
+Unlike the general Assamese catalogue, the **Zubeen Garg artist section**
+can contain verified recordings in their original languages.
 
-Language information is preserved rather than automatically translated.
+Examples may include:
 
-### 🪔 Tribute Experience
+- অসমীয়া
+- हिन्दी
+- বাংলা
+- English
+- Other verified original languages
 
-The Tribute section includes:
+Original titles and language information are preserved.
 
-- Animated diya
-- Zubeen Garg portrait
-- Memorial design
+### No automatic translation
+
+> **“গানৰ ভাষা সলনি নহয় — যি ভাষাত সৃষ্টি, সেই ভাষাতেই সন্মান।”**
+
+---
+
+# 🪔 Tribute Experience
+
+The Tribute section is designed as a digital memorial.
+
+It includes:
+
+- 🪔 Animated diya
 - ❤️ Heartthrob ZUBEEN DA
-- Rose-petal interaction
-- Assamese tribute message
-- Assamese facts
-- Assamese stories about Zubeen Garg
-- Interactive memorial experience
+- 🌹 Interactive rose petals
+- 📸 Zubeen Garg portrait
+- ✨ Memorial animations
+- 📖 Assamese stories
+- 💡 Assamese facts
+- 📝 Tribute message
+
+Touching the portrait triggers a soft rose-petal memorial animation.
+
+> **“ফুল সৰি যায়, সময় পাৰ হৈ যায়,
+> কিন্তু সুৰৰ স্মৃতি কেতিয়াও ম্লান নহয়।”**
 
 ---
 
-## 🌹 A Tribute, Not a Commercial Service
+# 🌹 জুবিন দাৰ বাবে
 
-ZUBEEN FM is an independent personal fan and tribute project.
+<div align="center">
 
-It is **not affiliated with, endorsed by, or officially associated with**
-Zubeen Garg, his family, estate, record labels, music publishers, or
-music platforms unless explicitly stated.
+### 🪔
 
-The project does not claim ownership of Zubeen Garg's music or other
-copyrighted recordings.
+> **“তুমি গোৱা প্ৰতিটো সুৰত  
+> অসমৰ মাটিৰ গোন্ধ আছিল।”**
 
-All music, recordings, artwork and other copyrighted material remain the
-property of their respective rights holders.
+> **“তুমি আমাৰ মাজত নাই,  
+> কিন্তু তোমাৰ সুৰ আমাৰ মাজত সদায় আছে।”**
 
----
+> **“তোমাৰ কণ্ঠৰ প্ৰতিটো সুৰ  
+> আমাৰ হৃদয়ত সদায় বাজি থাকিব।”**
 
-## 🔒 Privacy
+### ❤️
 
-ZUBEEN FM is designed as a personal, non-commercial application.
+**জুবিন দা, তোমাৰ সুৰ কেতিয়াও শেষ নহয়।**
 
-The project does not intentionally provide:
-
-- Commercial advertising
-- Paid subscriptions
-- In-app purchases
-- User-data monetization
-
-Music discovery and streaming may require communication with third-party
-services used by the application.
-
-The application does not claim ownership or control over those
-third-party services.
+</div>
 
 ---
 
-## 🚫 Non-Commercial Policy
-
-ZUBEEN FM is intended for personal and non-commercial use.
-
-The project does not sell music, subscriptions or advertising.
-
-**Important:** Non-commercial use does not itself grant copyright,
-streaming or distribution rights.
-
-Users are responsible for respecting applicable copyright and
-third-party service terms.
-
----
-
-## 🌐 Open Source
-
-ZUBEEN FM uses open-source software and libraries.
-
-Major technologies used by the project include:
-
-- Kotlin
-- Jetpack Compose
-- AndroidX
-- Material 3
-- Media3 / ExoPlayer
-- Kotlin Coroutines
-- Coil
-- NewPipe Extractor
-- Other open-source dependencies included in the project
-
-See:
-
-**[`ATTRIBUTIONS.md`](docs/ATTRIBUTIONS.md)**
-
-for the complete dependency, copyright and license information used by
-the actual project.
-
----
-
-## 🏗️ Architecture
+# 🏗️ Architecture
 
 ```text
-                    ZUBEEN FM
-                        │
-          ┌─────────────┴─────────────┐
-          │                           │
-     NORMAL MODE                  RADIO MODE
-          │                           │
-          ▼                           ▼
- Assamese Catalogue             Zubeen Catalogue
-          │                           │
- Songs / Albums / Artists       Verified Zubeen
- Genres / Search                     │
-          │                           ▼
-          │                    Station Manifest
-          │                           │
-          │                           ▼
-          │                    RadioStationClock
-          │                           │
-          └─────────────┬─────────────┘
-                        ▼
-                 Playback Engine
-                        │
-          ┌─────────────┼─────────────┐
-          ▼             ▼             ▼
-       Android       Notification   Lock Screen
-       Player          Controls       Controls
+                         ZUBEEN FM
+                             │
+              ┌──────────────┴──────────────┐
+              │                             │
+         NORMAL MODE                    RADIO MODE
+              │                             │
+              ▼                             ▼
+    Assamese Music Library          Zubeen Garg Only
+              │                             │
+       ┌──────┼──────┐                      │
+       │      │      │                      ▼
+     Songs  Albums Artists            Verified Catalogue
+       │      │      │                      │
+       └──────┴──────┘                      ▼
+                                      Radio Station Clock
+                                             │
+                                             ▼
+                                       Radio Playback
