@@ -13,3 +13,9 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# Local Firebase/Google configuration
+app/google-services.json
+
+# Generated Android build outputs
+app/foss/
