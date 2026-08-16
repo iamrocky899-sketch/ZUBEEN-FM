@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ZUBEEN FM</string>
+    <string name="station_name">ZUBEEN FM</string>
+    <string name="station_frequency">98.6 FM</string>
+    <string name="station_tagline">The Pulse of Assam • Zubeen Garg</string>
+    <string name="station_location">Guwahati, Assam</string>
+    <string name="nav_radio">Radio</string>
+    <string name="nav_songs">Songs</string>
+    <string name="nav_tribute">Tribute</string>
+    <string name="nav_about">About</string>
+    <string name="action_play">Play</string>
+    <string name="action_pause">Pause</string>
+    <string name="action_next">Next</string>
+    <string name="action_previous">Previous</string>
+    <string name="action_retry">Retry</string>
+    <string name="status_live">LIVE ON-AIR</string>
+    <string name="status_off_air">OFF-AIR</string>
+    <string name="label_rj_on_air">RJ On-Air</string>
+    <string name="error_playback_unavailable">Playback unavailable</string>
+    <string name="error_radio_unavailable">Radio unavailable</string>
+</resources>
